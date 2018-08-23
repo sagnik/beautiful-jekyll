@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Or Why you'd want to go on a date with me
+subtitle: Or why you'd want to go on a date with me
 ---
 
 My full name is Sagnik Ray Choudhury. Pronounced [shaagh-neek rye chou-dhoo-reeh](https://www.nameshouts.com/names/bengali/pronounce-sagnik-ray-choudhury).
