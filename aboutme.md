@@ -20,4 +20,4 @@ I have a PhD from [IST, PennState](http://ist.psu.edu/). My primary advisor was 
 
 Before coming to PennState, I spent all my years in India. I have a bachelor's and master's degree in CS from [Jadavpur University](http://www.jaduniv.edu.in) and [IIT Kharagpur](http://www.iitkgp.ac.in/), respectively.
 
-In my current job I write deep learning models for NLP in Python. My [Ph.D. research](http://www.personal.psu.edu/szr163/research.html") involved information extraction from scholarly papers. 
+In my current job I write [deep learning models for NLP in Python](https://github.com/dpressel/baseline). My [Ph.D. research](http://www.personal.psu.edu/szr163/research.html") involved information extraction from scholarly papers. 
