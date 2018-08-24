@@ -14,7 +14,7 @@ What else do you need?
 
 ### my history
 
-I work for a company called [Interactions](https://www.interactions.com/). We use AI to build IVR and Chatbots. We also build AI models to mine social networks. These find what somebody is telling about you on the Web. 
+I work for a company called [Interactions](https://www.interactions.com/). We use AI to build IVR and Chatbots. We also build AI models to mine social networks. 
 
 I have a PhD from [IST, PennState](http://ist.psu.edu/). My primary advisor was [Dr. C. Lee. Giles](http://clgiles.ist.psu.edu). I also worked with [Dr. Prasenjit Mitra](http://www.personal.psu.edu/faculty/p/u/pum10/). 
 
